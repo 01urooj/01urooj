@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Urooj&fontSize=48&fontColor=fff&desc=Python%20%7C%20Full-Stack%20%7C%20AI&descSize=18" width="100%">
+<img src="banner.gif" width="100%" alt="Urooj - Developer">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Full+Stack+Developer;Turning+Ideas+Into+Real+Solutions">
@@ -10,7 +10,7 @@
 </p>
 
 ## 👋 About Me
-I'm Urooj, a Computer Science Student and Aspiring Full Stack Developer. I love building creative projects and exploring new technologies.
+I'm Urooj,  Full Stack Developer. I love building creative projects and exploring new technologies.
 
 ## 🛠️ Skills
 <p>
@@ -18,6 +18,20 @@ I'm Urooj, a Computer Science Student and Aspiring Full Stack Developer. I love 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+## 🚀 Projects
+- **Project  Air Plane Seats Reservation System ** book airplane Seats online
+- **Project Pak cirket Team Image Recognition System** – Identify Players through images
+  
+
+<!-- Apne projects ke naam aur links yahan likh dein, jaise:
+- [Air Plane Seat Reservation (https://celadon-starship-86d429.netlify.app/) – description  This project is very  interesting
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=01urooj&show_icons=true&theme=radical&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01urooj&layout=compact&theme=radical&hide_border=true">
 </p>
 
 ## 📫 Connect With Me
