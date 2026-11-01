@@ -10,7 +10,7 @@
 </p>
 
 ## 👋 About Me
-I'm Urooj, a Computer Science Student and Aspiring Full Stack Developer. I love building creative projects and exploring new technologies.
+I'm Urooj, Full Stack Developer. I love building creative projects and exploring new technologies.
 
 ## 🛠️ Skills
 <p>
