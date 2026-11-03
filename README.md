@@ -1,10 +1,7 @@
-<img src="banner.gif" width="100%" alt="Urooj - Developer">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Urooj%20👋&fontSize=45&fontColor=fff&desc=Python%20%7C%20Full-Stack%20%7C%20AI&descSize=18" width="100%">
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Urooj%20👋&fontSize=48&fontColor=fff&fontAlignY=38&desc=Python%20%7C%20Full-Stack%20%7C%20AI&descSize=18&descAlignY=62" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Full-Stack+Development+⚡;Computer+Science+Student;Turning+Ideas+Into+Real+Solutions">
+  <img src="typing.svg" alt="Full-Stack Development">
 </p>
 
 <p align="center">
@@ -49,7 +46,7 @@ I'm a **Aspiring Full-Stack Developer** who enjoys turning ideas into practical,
 |:---:|:---:|:---:|:---:|
 | AI Basics | Scripting | HTML | Web Apps |
 | Automation | Problem Solving | CSS | Portfolio Sites |
-| Prompting |  Projects | JavaScript | Learning Backend |
+| Prompting | Small Projects | JavaScript | Learning Backend |
 
 </div>
 
@@ -61,34 +58,10 @@ I'm a **Aspiring Full-Stack Developer** who enjoys turning ideas into practical,
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 
-**🎨 Frontend**<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<!-- Jab seekh lein to add karein:
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"> -->
-
-**🧠 AI / Automation**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> -->
-
 **🔧 Tools**<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-
-## 🚀 Projects
-- **Portfolio Website** – my personal portfolio
-- **Project Name** – one line about what it does
-<!-- Format: - [Project Name](https://github.com/01urooj/repo-name) – description -->
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=01urooj&show_icons=true&theme=radical&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01urooj&layout=compact&theme=radical&hide_border=true">
-</p>
 
 ## 📫 Connect With Me
 <p>
