@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Urooj%20👋&fontSize=48&fontColor=fff&fontAlignY=38&desc=Python%20%7C%20Full-Stack%20%7C%20AI&descSize=18&descAlignY=62" width="100%">
 
 <p align="center">
-  <img src="typing.svg" alt="Full-Stack Development">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-Stack+Development;Aspiring+Full+Stack+Developer;Turning+Ideas+Into+Real+Solutions" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=01urooj&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED">
